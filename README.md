@@ -6,6 +6,8 @@ Try to attempt it yourself before you look at my solutions!
 
 A great break from doing leetcode type questions.
 
+Give it a go yourself [https://adventofcode.com/2021](https://adventofcode.com/2021)
+
 ## How to run
 
 1. Clone this repo
